@@ -44,7 +44,7 @@ const smsWel11 = () => { return `📢 *Leia a descrição* 📢\n` }
 const smsBye = () => { return `Adeus` }
 const smsBye2 = () => { return `Bem, se foi` }
 const smsBye3 = () => { return `Que Deus te abençoe 😎` }
-const smsBye4 = () => { return `deixou o grupo._` }
+const smsBye4 = () => { return `*mais um corno deixou o grupo*` }
 const smsBye5 = () => { return `se foi\n┃ fã de bts` }
 const promote = () => { return `Parabéns, agora você faz parte da equipe. 🎉` }
 const demote = () => { return `você não é mais administrador 🥲` }
@@ -189,30 +189,30 @@ text20: `╭─────────────┈⊷
 │ \`\`\`COMO INSTALAR ESTE BOT?\`\`\`
 ╰┬────────────┈⊷
 ┌┤\`\`\`📌 REQUERIMENTOS DE INSTALAÇÃO\`\`\`
-┌┤❇️ _Dúvidas: wa.me/5492266466080_
-┌┤❇️ _Tutorial: https://youtu.be/OhbJjp0L2QA?si=ZqRgG3SGTRFSW6CH_
+┌┤❇️ _Dúvidas: wa.me/5521980207966_
+┌┤❇️ _Tutorial: https://youtube.com/@bigmc3430_
 ┌┤❇️ _1 GB de armazenamento_
-┌┤❇️ _Termux: https://www.mediafire.com/file/3hsvi3xkpq3a64o/termux_118.apk/file_
-┌┤❇️ _GitHub: https://github.com/elrebelde21/NovaBot-MD_
+┌┤❇️ _Instagram: https://instagram.com/1bigmc_
+┌┤❇️ _GitHub: https://github.com/bigmc_
 ┌┤❇️ _um WhatsApp imune (secundário)_
 ┌┤❇️ _um número virtual (outro número)_
 ┌┤❇️ _2 dispositivos ou um PC para digitalizar_
 ╰────────────┈⊷
 
- \`\`\`📌 COMANDO DE INSTALAÇÃO TERMUX\`\`\`
+\`\`\`📌 COMANDO DE INSTALAÇÃO TERMUX\`\`\`
 
-> termux-setup-storage
+> 🤔 *************
 
-> apt update && apt upgrade && pkg update && pkg upgrade && pkg install bash && pkg install libwebp && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget && pkg install imagemagick -y && pkg install yarn
+> 🤔 *************
 
-> git clone https://github.com/elrebelde21/NovaBot-MD && cd NovaBot-MD && yarn && npm install
+> 🤔 *************
 
 > npm start
 
 (Digitalize o QR rapidamente)
 
 🚀 --------[ Vortexuscloud host ]--------- 🚀
-💞 Graças a: mauro 
+ Graças a: big 🗿🍷
 
 • https://youtube.com/@vortexuscloud
 
@@ -226,7 +226,7 @@ https://dash.vortexuscloud.com
 https://panel.vortexuscloud.com
 
 • Canal WhatsApp sobre informações do anfitrião
-• https://whatsapp.com/channel/0029Va8ZD6O3mFXxTPl1m13A
+• https://whatsapp.com/channel/0029Va8ZD6O3mFXxTPl1m13
 
 🚀 --------[ Anfitrião dos Cafirexos ]--------- 🚀
 
@@ -244,7 +244,7 @@ https://chat.whatsapp.com/FBtyc8Q5w2iJXVl5zGJdFJ
 (Peça pelo Diego: caferexos)
 
 *Canal WhatsApp:*
-https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2q`, 
+https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2`, 
 text21: `*Digite o comando com falha*\n\n*Exemplo:`, 
 text22: `O relato foi enviado ao meu criador, entraremos em contato se necessário, se for falso será ignorado e bloqueado do bot*`, 
 text23: `*╼╼╼╼╼╼╼[ 💖 doação 💖 ]╾╾╾╾╾╾╾╾*\n\n*Olá 👋, se você quiser apoiar este projeto, você pode fazê-lo através de doações voluntárias através do PayPal, Mercado Pago ou Naranja X.*\n\n╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍\n\n*❇️ PayPal:*\nhttps://paypal.me/OfcGB\n\n╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍\n\n*❇️ Mercado de pagamentos:*\n*• Alias :* OficialGB\n*• CVU :* 0000003100059201491917\n\n╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍\n\n*❇️ Laranja:*\n*• Alias :* OficialGL\n*• CVU :* 4530000800017922067114`, 
@@ -266,17 +266,17 @@ text26: `*⚡Você está procurando hots de qualidade que caibam no seu bolso?*
 • https://panel.cafirexos.com
 
 📢 *Canal WhatsApp*
-• https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2q
+• https://whatsapp.com/channel/0029VaFVSkRCMY0KFmCMDX2
 
 💥 *Grupo de WhatsApp*
-• https://chat.whatsapp.com/FBtyc8Q5w2iJXVl5zGJdFJ 
+• https://chat.whatsapp.com/FBtyc8Q5w2iJXVl5zGJdF 
 
 📧 *Correo*
 • contacto@cafirexos.com
 
 🧑‍💻 *Contato (Diego Flores)*
 _(Dúvidas SOMENTE SOBRE O ANFITRIÃO)_
-• https://wa.me/50497150165` }
+• https://wa.me/5521980207966` }
 
 const menu = {
 text: `❐ Prefixo`, 
@@ -444,7 +444,7 @@ https://paypal.me/OfcGB
 *⚡ Não posso doar, existe outra opção de conseguir um bot para meu Grupo?*
 Você pode apoiar nosso repositório oficial com uma estrelinha 🌟
 • ${md}
-• https://github.com/elrebelde21/LoliBot-MD
+• https://github.com/bigmc/-MD
 
 🔔 Inscreva-se em nosso canal oficial no YouTube
 • ${yt}
@@ -651,7 +651,7 @@ const smsReg8 = () => { return `*💬 Escolha seu idioma com:* #idioma` }
 const cuenta = (nna, md, yt, tiktok, fb) => { return `*Bem-vindo às contas oficiais ✨*
 
 *👑 Número oficial do bot:*
-• wa.me/51910628581 
+• wa.me/557398502689 
 
 *✨ Canal WhatsApp / Atualização:*
 • ${nna}
