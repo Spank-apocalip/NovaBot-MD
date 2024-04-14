@@ -4,23 +4,23 @@ const chalk = require('chalk')
 const { en, es, ar, id, pt, rs} = require('./libs/idiomas/total-idiomas.js') 
 
 //---------[ PROPIETARIO/OWNER ]---------
-global.owner = [["5521980207966", "Owner", true], ["557398502786"], ["5492266466080"], ["595986172767"], ["5492266613038"], ["5217294888993"],["5214437863111"], ["51906662557"], ["595992302861"], ["5217441298510"], ["5491155983299"], ["5493795319022"], ["5217821153974"], ["573012482597"]]
+global.owner = [["5521980207966", "Owner", true], ["557398502786"], ["553193342889"], ["559985454165"], ["559285013050"], ["559285013050"],["559285013050"], ["559285013050"], ["559285013050"], ["559285013050"], ["559285013050"], ["559285013050"], ["559285013050"], ["559285013050"]]
 global.mods = []
 global.premium = []  
 global.blockList = []  
 
 //---------[ NOMBRE/INFO ]---------
 global.botname = "𝙳𝙾𝙽𝙸𝙽𝙷𝙰-𝙼𝙳"
-global.wm = '*DONINHA BOT-MD*'
+global.wm = '𝙳𝙾𝙽𝙸𝙽𝙷𝙰-𝙼𝙳'
 global.vs = '1.1.0'
 
 //Función beta : escribe el número que quiere que sea bot para que mande el Código de 8 digitos
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "+557398502786" //Ejemplo: +59309090909
 global.phoneNumber = ""
 
 //---------[ FECHA/IDIOMAS ]---------
 global.place = 'America/Bogota' // Aquí puedes encontrar tu ubicación https://momentjs.com/timezone/
-global.lenguaje = es //Predeterminado en idioma Español 
+global.lenguaje = pt //Predeterminado en idioma Español 
 global.prefix = [`/`]
 
 //---------[ APIS GLOBAL ]---------
@@ -82,7 +82,7 @@ global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACES ]---------
 global.md = 'https://github.com/bigmc'
-global.yt = 'https://www.youtube.com/@bigmc3334'
+global.yt = 'https://www.youtube.com/@bigmc3034'
 global.tiktok = 'tiktok.com/@big.edits.ofc'
 global.fb = 'https://www.facebook.com/big'
 global.faceb = 'https://facebook.com/groups/praonde/'
