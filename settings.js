@@ -82,7 +82,7 @@ global.noperfil = fs.readFileSync('./media/sinfoto.jpg')
 
 //---------[ ENLACES ]---------
 global.md = 'https://github.com/bigmc'
-global.yt = 'https://www.youtube.com/@bigmc3034'
+global.yt = 'https://www.youtube.com/@bigmc3430'
 global.tiktok = 'tiktok.com/@big.edits.ofc'
 global.fb = 'https://www.facebook.com/big'
 global.faceb = 'https://facebook.com/groups/praonde/'
