@@ -274,7 +274,7 @@ text26: `*⚡Você está procurando hots de qualidade que caibam no seu bolso?*
 📧 *Correo*
 • contacto@cafirexos.com
 
-🧑‍💻 *Contato (Diego Flores)*
+🧑‍💻 *Contato (𝙱𝙸𝙶 𝙼𝙲 𝙾𝙵𝙲)*
 _(Dúvidas SOMENTE SOBRE O ANFITRIÃO)_
 • https://wa.me/5521980207966` }
 
