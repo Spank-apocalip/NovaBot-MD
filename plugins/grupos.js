@@ -148,7 +148,7 @@ let link = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(group)
 await conn.sendMessage(text+'@s.whatsapp.net', {text: `${lenguaje.grupos.text15}\n\n${link}`, mentions: [m.sender]})
 m.reply(lenguaje.exito())}
 
-if (command == 'kick' || command == 'ban' || command == 'sacar') {
+if (command == 'kick' || command == 'echar' || command == 'sacar') {
 if (!m.isGroup) return m.reply(info.group) 
 if (!isBotAdmins) return m.reply(info.botAdmin)
 if (!isGroupAdmins) return m.reply(info.admin)
